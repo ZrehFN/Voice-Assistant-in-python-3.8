@@ -1,0 +1,9 @@
+pyttsx3
+webbrowser
+PyDictionary
+time
+psutil
+platform
+
+
+(You will need these modules for your assistant.)
